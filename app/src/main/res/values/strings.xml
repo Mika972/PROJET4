@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mareu</string>
+    <string name="title_name">Réservation de réunion</string>
+    <string name="the_rooms">Room filter</string>
+    <string name="the_dates">Date filter</string>
+    <string name="the_select">Select Item</string>
+    <string name="meeting_room">Salles</string>
+    <string name="day_month_year">date/month/year</string>
+    <string name="meeting_title">Titre de la réunion</string>
+    <string name="participant">Participant.e(s)</string>
+    <string name="button">Réserver</string>
+</resources>

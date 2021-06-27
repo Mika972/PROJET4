@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="ifRoom"
+        android:id="@+id/item_select"
+        android:title="@string/the_select"
+        android:icon="@drawable/ic_filter_button"
+        >
+        <menu>
+            <item
+                android:id="@+id/search_bar"
+                android:title="@string/the_rooms"
+                app:showAsAction="collapseActionView"
+                app:actionViewClass="android.widget.SearchView"/>
+            <item
+                android:id="@+id/item_date_filter"
+                android:title="@string/the_dates"
+                app:showAsAction="collapseActionView"/>
+        </menu>
+    </item>
+</menu>

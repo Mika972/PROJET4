@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textFirst_size">12dp</dimen>
+    <dimen name="item_start">22dp</dimen>
+    <dimen name="item_end">22dp</dimen>
+    <dimen name="horizontal_lay">19dp</dimen>
+    <dimen name="title_size">16dp</dimen>
+    <dimen name="text_size">14dp</dimen>
+    <dimen name="the_top">27dp</dimen>
+</resources>
